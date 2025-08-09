@@ -61,11 +61,11 @@ Execute:
 
 java -cp bin Main
 
-##💡 Saída Esperada
+## 💡 Saída Esperada
 
 Pagamento de R$250.0 realizado com cartão de crédito: 1234-5678-9876-5432
 Pagamento de R$100.0 realizado via PayPal: usuario@email.com
 Pagamento de R$50.0 realizado via PIX: chave-pix-aleatoria
 
-##📚 Referências
+## 📚 Referências
 Aula "Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework" — Bootcamp Backend Java, DIO.
